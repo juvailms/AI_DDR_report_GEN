@@ -48,5 +48,3 @@ The system extracts structured insights from unstructured documents and produces
 - Pydantic (data validation)
 
 ---
-
-## Project Structure
